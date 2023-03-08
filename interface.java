@@ -71,11 +71,10 @@ class p extends n
 }
 
 
-<<<<<<< HEAD
 class Hello{
 	how are you;
 }
-=======
+
 	public void private3() {
 		
 		System.out.println("private3,,,,,");
@@ -110,4 +109,4 @@ class demo2
 	}
 }
 
->>>>>>> upstream/main
+
