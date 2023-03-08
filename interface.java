@@ -7,7 +7,7 @@ interface x extends y
 {
 	void private3();
 }
-public interface z extends	 x,y
+public interface z extends x,y
 {
 void show();
 void knowledgePark();
@@ -71,6 +71,43 @@ class p extends n
 }
 
 
+<<<<<<< HEAD
 class Hello{
 	how are you;
 }
+=======
+	public void private3() {
+		
+		System.out.println("private3,,,,,");
+	}
+
+	public static void main(String args[])
+	{
+		try
+		{
+			Class c=Class.forName(args[0]);
+		 m de=(m)c.newInstance();
+		de.public2();
+		de.private3();
+		 de.show();
+		de.knowledgePark(56);
+		de.knowledgePark();
+		// de.public2();
+		 //de.private3();
+		 
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+}
+class demo2
+{
+	void show()
+	{
+		System.out.println("Hello World!");
+	}
+}
+
+>>>>>>> upstream/main
