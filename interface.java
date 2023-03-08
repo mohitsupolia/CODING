@@ -69,13 +69,11 @@ class p extends n
 	}
 	
 }
-public class demoooo implements x
-{
 
-	public void public2() {
-		
-		System.out.println("public4738532958632");
-	}
+
+class Hello{
+	how are you;
+}
 
 	public void private3() {
 		
@@ -110,4 +108,5 @@ class demo2
 		System.out.println("Hello World!");
 	}
 }
+
 
