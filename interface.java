@@ -7,7 +7,7 @@ interface x extends y
 {
 	void private3();
 }
-public interface z extends	 x,y
+public interface z extends x,y
 {
 void show();
 void knowledgePark();
