@@ -99,8 +99,12 @@ class p extends n
 	}
 
 }
+<<<<<<< HEAD
 
 class Hello{
 	hello;
 }
+=======
+hello world!
+>>>>>>> upstream/main
 
