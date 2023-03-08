@@ -100,4 +100,7 @@ class p extends n
 
 }
 
+class Hello{
+	hello;
+}
 
