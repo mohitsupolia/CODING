@@ -69,37 +69,8 @@ class p extends n
 	}
 	
 }
-public class demoooo implements x
-{
 
-	public void public2() {
-		
-		System.out.println("public4738532958632");
-	}
 
-	public void private3() {
-		
-		System.out.println("private3,,,,,");
-	}
-
-	public static void main(String args[])
-	{
-		try
-		{
-			Class c=Class.forName(args[0]);
-		 m de=(m)c.newInstance();
-		de.public2();
-		de.private3();
-		 de.show();
-		de.knowledgePark(56);
-		de.knowledgePark();
-		// de.public2();
-		 //de.private3();
-		 
-		}
-		catch(Exception e)
-		{
-			e.printStackTrace();
-		}
-	}
+class Hello{
+	how are you;
 }
