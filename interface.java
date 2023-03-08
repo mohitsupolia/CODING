@@ -71,9 +71,6 @@ class p extends n
 }
 
 
-class Hello{
-	how are you;
-}
 
 	public void private3() {
 		
@@ -100,13 +97,7 @@ class Hello{
 			e.printStackTrace();
 		}
 	}
-}
-class demo2
-{
-	void show()
-	{
-		System.out.println("Hello World!");
-	}
+
 }
 
 
