@@ -103,3 +103,11 @@ public class demoooo implements x
 		}
 	}
 }
+class demo2
+{
+	void show()
+	{
+		System.out.println("Hello World!");
+	}
+}
+
